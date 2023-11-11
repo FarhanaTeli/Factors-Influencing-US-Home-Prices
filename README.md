@@ -93,3 +93,13 @@ percent urban population - https://data.worldbank.org/indicator/SP.URB.TOTL.IN.Z
 Housing Subsidies (Federal) - https://fred.stlouisfed.org/series/L312051A027NBEA
 
 Total households - https://fred.stlouisfed.org/series/TTLHH
+
+
+**Articles refered** -
+
+https://www.investopedia.com/articles/mortgages-real-estate/10/understanding-case-shiller-index.asp
+
+
+**Research Papers refered** -
+
+https://www.atlantis-press.com/article/25841966.pdf
