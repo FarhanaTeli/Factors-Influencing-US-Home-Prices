@@ -2,6 +2,8 @@
 
 **Objective:**
 
+Find publicly available data for key factors that influence US home prices nationally. Then, build a data science model that explains how these factors impacted home prices over the last 20 years.
+
 The project aims to build a data science model to predict U.S. home prices based on key economic factors over the last 20 years.
 
 **Steps**
@@ -36,15 +38,25 @@ Analyzed feature importance for models like Random Forest, XGBoost, and Gradient
 
 8. **Model Comparison:**
 
-Compared models based on MSE, R-squared, and other relevant metrics to identify the model with the best predictive accuracy and explanatory power.
+Compare the performance of different models based on metrics such as Mean Squared Error (MSE) and R-squared.
 
-9. **Conclusion:**
+Select the best-performing model that provides accurate predictions and insights into the factors influencing home prices over the last 20 years.
 
-Identified Random Forest and XGBoost as strong contenders for the best model, considering their low MSE and high R-squared values.
+9. **Visualization:**
 
-10. **Overall Implication:**
+Create visualizations to illustrate the relationships between actual and predicted home prices for each model.
 
-The project contributes to understanding the key factors influencing U.S. home prices and provides a foundation for building robust predictive models in the real estate domain.
+Visualize the importance of different features or coefficients in influencing home prices.
+
+10. **Conclusion:**
+
+Identified strong contender for the best model, considering their low MSE and high R-squared values.
+
+Draw conclusions about the key factors that have historically influenced US home prices.
+
+11. **Overall Implication:**
+
+The project contributes to understanding the key factors influencing U.S. home prices over the last 20 years and provides a foundation for building robust predictive models in the real estate domain.
 
 # Data Availability
 
@@ -95,11 +107,11 @@ Housing Subsidies (Federal) - https://fred.stlouisfed.org/series/L312051A027NBEA
 Total households - https://fred.stlouisfed.org/series/TTLHH
 
 
-**Articles refered** -
+**Article referred** -
 
 https://www.investopedia.com/articles/mortgages-real-estate/10/understanding-case-shiller-index.asp
 
 
-**Research Papers refered** -
+**Research Paper referred** -
 
 https://www.atlantis-press.com/article/25841966.pdf
