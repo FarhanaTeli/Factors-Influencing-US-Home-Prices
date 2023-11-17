@@ -58,6 +58,12 @@ Draw conclusions about the key factors that have historically influenced US home
 
 The project contributes to understanding the key factors influencing U.S. home prices over the last 20 years and provides a foundation for building robust predictive models in the real estate domain.
 
+# Results
+![image](https://github.com/FarhanaTeli/Factors-Influencing-US-Home-Prices/assets/98101319/e30e847b-714d-47d7-8268-cda5b0e3d9af)
+
+![image](https://github.com/FarhanaTeli/Factors-Influencing-US-Home-Prices/assets/98101319/cd05a1f5-4fcd-4793-8796-06deb0dd6d3a)
+
+
 # Data Availability
 
 **The following variables are chosen for the study-**
